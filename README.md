@@ -19,4 +19,3 @@ List judul modul setiap pertemuan:
 12. Mengambil Data dari Internet
 13. Mengambil Data dan Menampilkan Gambar dari Internet
 14. Filtering dan Detail Views dengan Data dari Internet
-15. Responsi
